@@ -1,2 +1,4 @@
 # -Prism-Insurance
-nteractive Power BI dashboard analyzing insurance data including premium revenue, claim amounts, policy types, and customer activity. Features KPI cards, DAX measures, slicers, and dynamic visuals to generate business insights and support data-driven decision-making for Prism Insurance.
+This project presents a comprehensive Insurance Analytics Dashboard developed using Power BI. The dashboard provides an executive-level overview of premium performance, claim trends, customer distribution, and policy analysis to support data-driven decision-making.
+
+The report is structured into multiple pages including an Executive Summary and Business Insights section for better strategic evaluation.
